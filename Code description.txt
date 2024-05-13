@@ -1,0 +1,5 @@
+1. Calculate the individual semantics of each decision making using Lingo software.
+2. Save and record the individual semantic results of the decision making.
+3. Use "SJ_1_25'', "SJ_25_55" and "SJ_55" to get the evaluation matrix of decision making.
+3. Use the program "YSZT" to complete both the consensus process and the alternative ranking process.
+4. Use "cost'' to get the cost of the consensus process.
